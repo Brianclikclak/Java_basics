@@ -25,7 +25,7 @@ public class Peso_Ideal_do_while {
             pesoIdeal=altura-120;
         }
 
-        System.out.println("Tu peso ideal es " + pesoIdeal);
+        System.out.println("Tu peso ideal es " + pesoIdeal + " kg");
 
 
     }
